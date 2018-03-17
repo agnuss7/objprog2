@@ -21,7 +21,7 @@ int main()
     std::vector<studentai> A;
     std::ifstream df("1.txt");
 
-    const std::size_t R = 100;
+    const std::size_t R = 10;
 std::chrono::high_resolution_clock::time_point t1;
 std::chrono::high_resolution_clock::time_point t2;
 
