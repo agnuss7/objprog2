@@ -74,4 +74,15 @@ Tai labai neefektyvu.
 |10000 | 6766 |  7543
 |100000 | 171036 | 411019
 
+# Abominations
 
+daug .cpp failų...
+
+# coolish things
+
+Header'iai ir algoritmų biblioteka.
+
+    std::sort(A.begin(),A.begin()+f,compare);
+    std::sort(A1.begin(),A1.end(),compare);
+    
+ 
